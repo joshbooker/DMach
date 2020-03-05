@@ -1,3 +1,4 @@
+//Source and credit belongs to: http://www.dinahmoelabs.com/_plink/
 (function () {
     // jscs:disable
     var version = "0.0.1",
